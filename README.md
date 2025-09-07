@@ -4,14 +4,14 @@ ReviewRabbit is an intelligent code analysis and review tool that combines stati
 
 ##  Features
 
-- ** Static Code Analysis**: Comprehensive AST-based analysis for Python code
-- ** AI-Powered Reviews**: Intelligent code review using OpenAI's GPT models
-- ** Security Scanning**: Detection of common security vulnerabilities
-- ** Bug Detection**: Advanced pattern matching for potential bugs
-- ** Code Metrics**: Detailed metrics including complexity, maintainability scores
-- ** Multiple Output Formats**: Console, JSON, HTML, and Markdown reports
-- ** Configurable**: Customizable rules and analysis settings
-- ** Easy CLI**: Simple command-line interface for quick analysis
+-  Static Code Analysis**: Comprehensive AST-based analysis for Python code
+- AI-Powered Reviews**: Intelligent code review using OpenAI's GPT models
+- Security Scanning**: Detection of common security vulnerabilities
+- Bug Detection**: Advanced pattern matching for potential bugs
+- Code Metrics**: Detailed metrics including complexity, maintainability scores
+- Multiple Output Formats**: Console, JSON, HTML, and Markdown reports
+- *Cnfigurable**: Customizable rules and analysis settings
+- Easy CLI**: Simple command-line interface for quick analysis
 
 ## 🚀 Quick Start
 
