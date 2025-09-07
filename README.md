@@ -55,7 +55,7 @@ python main.py analyze path/to/your/project/
 python main.py review path/to/your/file.py --ai-review
 ```
 
-## 📖 Detailed Usage
+##  Detailed Usage
 
 ### Command Line Interface
 
@@ -172,7 +172,7 @@ review:
   language: "english"
 ```
 
-## 🔧 Analysis Types
+##  Analysis Types
 
 ### Static Analysis
 - **Syntax Errors**: Detection of Python syntax issues
@@ -202,7 +202,7 @@ review:
 - **Refactoring Opportunities**: Specific refactoring recommendations
 - **Test Case Generation**: Automated test case suggestions
 
-## 📊 Report Formats
+## Report Formats
 
 ### Console Output
 Rich, colorized console output with tables and formatted text.
@@ -262,14 +262,14 @@ print(f"Code Quality Score: {ai_review.overall_score}/10")
 print(f"Summary: {ai_review.summary}")
 ```
 
-## 🔒 Security Considerations
+## Security Considerations
 
 - **API Key Security**: Never commit your OpenAI API key to version control
 - **File Access**: ReviewRabbit only reads files you specify
 - **Network Usage**: AI reviews require internet connection for OpenAI API calls
 - **Data Privacy**: Code content is sent to OpenAI for analysis
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch: `git checkout -b feature-name`
@@ -282,7 +282,7 @@ print(f"Summary: {ai_review.summary}")
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - OpenAI for providing the GPT models
 - The Python community for excellent static analysis tools
