@@ -2,16 +2,16 @@
 
 ReviewRabbit is an intelligent code analysis and review tool that combines static analysis with AI-powered insights to automatically catch bugs, security vulnerabilities, and provide actionable suggestions for code improvement.
 
-## ✨ Features
+##  Features
 
-- **🔍 Static Code Analysis**: Comprehensive AST-based analysis for Python code
-- **🤖 AI-Powered Reviews**: Intelligent code review using OpenAI's GPT models
-- **🛡️ Security Scanning**: Detection of common security vulnerabilities
-- **🐛 Bug Detection**: Advanced pattern matching for potential bugs
-- **📊 Code Metrics**: Detailed metrics including complexity, maintainability scores
-- **📝 Multiple Output Formats**: Console, JSON, HTML, and Markdown reports
-- **⚙️ Configurable**: Customizable rules and analysis settings
-- **🚀 Easy CLI**: Simple command-line interface for quick analysis
+- ** Static Code Analysis**: Comprehensive AST-based analysis for Python code
+- ** AI-Powered Reviews**: Intelligent code review using OpenAI's GPT models
+- ** Security Scanning**: Detection of common security vulnerabilities
+- ** Bug Detection**: Advanced pattern matching for potential bugs
+- ** Code Metrics**: Detailed metrics including complexity, maintainability scores
+- ** Multiple Output Formats**: Console, JSON, HTML, and Markdown reports
+- ** Configurable**: Customizable rules and analysis settings
+- ** Easy CLI**: Simple command-line interface for quick analysis
 
 ## 🚀 Quick Start
 
@@ -278,7 +278,7 @@ print(f"Summary: {ai_review.summary}")
 5. Push to the branch: `git push origin feature-name`
 6. Submit a pull request
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -288,12 +288,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The Python community for excellent static analysis tools
 - Contributors and users who help improve ReviewRabbit
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ReviewRabbit/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ReviewRabbit/discussions)
-- **Email**: team@reviewrabbit.dev
 
 ---
 
-**Made with ❤️ by the ReviewRabbit team**
+**Made with ❤️ by the Isaac Tonyloi **
